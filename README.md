@@ -1,6 +1,6 @@
 # Zcash Memes
 
-Original meme set in Zcash brand style — custom frame, typography and layout,
+Original meme set in Zcash brand style - original frame, typography and layout,
 made for the Zcash community and ZecHub social channels.
 
 ## The set
@@ -13,7 +13,7 @@ Caption: *Different race, different metric.*
 ### 2. Ironwood glow-up
 ![ironwood lion](https://raw.githubusercontent.com/oalocalize/zcash-memes/main/memes/02-ironwood-lion.jpg)
 
-Caption: *Zcash shipped Ironwood (NU6.3) — a new, formally verified shielded pool.*
+Caption: *Zcash shipped Ironwood (NU6.3) - a new, formally verified shielded pool.*
 
 ### 3. Before / after
 ![before after](https://raw.githubusercontent.com/oalocalize/zcash-memes/main/memes/03-ironwood-before-after.jpg)

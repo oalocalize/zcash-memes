@@ -6,17 +6,17 @@ made for the Zcash community and ZecHub social channels.
 ## The set
 
 ### 1. Market cap
-![market cap](https://raw.githubusercontent.com/oalocalize/zcash-memes/main/memes/01-market-cap.png)
+![market cap](https://raw.githubusercontent.com/oalocalize/zcash-memes/main/memes/01-market-cap.jpg)
 
 Caption: *Different race, different metric.*
 
 ### 2. Ironwood glow-up
-![ironwood lion](https://raw.githubusercontent.com/oalocalize/zcash-memes/main/memes/02-ironwood-lion.png)
+![ironwood lion](https://raw.githubusercontent.com/oalocalize/zcash-memes/main/memes/02-ironwood-lion.jpg)
 
 Caption: *Zcash shipped Ironwood (NU6.3) — a new, formally verified shielded pool.*
 
 ### 3. Before / after
-![before after](https://raw.githubusercontent.com/oalocalize/zcash-memes/main/memes/03-ironwood-before-after.png)
+![before after](https://raw.githubusercontent.com/oalocalize/zcash-memes/main/memes/03-ironwood-before-after.jpg)
 
 Caption: *Orchard is withdrawal-only now. Ironwood is formally verified.*
 
